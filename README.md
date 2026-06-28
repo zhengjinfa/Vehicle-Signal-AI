@@ -67,7 +67,13 @@ It offers the same functionality with native file dialogs and better offline cap
 
 ## 📸 Screenshots
 
-*(插入截图：主界面、波形图、异常列表、分析报告)*
+<img width="1166" height="896" alt="c381291e60c931de6e76a4d34eb30e49" src="https://github.com/user-attachments/assets/fe9cb2eb-a1ed-45f6-91e4-e61bf5bb24bd" />
+
+
+<img width="1151" height="826" alt="2cc28be066a9aee3667e734978d42441" src="https://github.com/user-attachments/assets/b6e87d52-0941-4a2b-9a5a-3f20adbc2233" />
+
+<img width="1098" height="606" alt="2c4b160e5a2bd8a8d98bd84e40e63e84" src="https://github.com/user-attachments/assets/b72623d9-c887-495d-baeb-59704cc96d51" />
+
 
 ---
 
