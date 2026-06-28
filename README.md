@@ -105,3 +105,7 @@ Free for personal, educational, and commercial use.
 ---
 
 **If CANme-AI helps you fix an elusive bug, consider giving the repo a ⭐!**
+
+📱 Contact Me on WeChat :zhengjinfa33
+
+📧 Email:zhengjinfa33@163.com
